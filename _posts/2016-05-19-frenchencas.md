@@ -2,13 +2,16 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: "French'Encas"
-datePublished: '2016-05-19T22:37:13.216Z'
-dateModified: '2016-05-19T22:37:07.676Z'
+datePublished: '2016-05-19T22:41:27.851Z'
+dateModified: '2016-05-19T22:41:15.162Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-19-frenchencas.md
 authors: []
 publisher: null
