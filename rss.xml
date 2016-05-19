@@ -4,7 +4,7 @@
         <description><![CDATA[French'Encas]]></description>
         <link>https://thegrid.ai/french-encas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 22:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 22:31:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/french-encas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/french-encas/test/index.html</link>
             <guid isPermaLink="false">daa36361-b9fa-4102-a84c-5b202b33a8a6</guid>
             <pubDate>Thu, 19 May 2016 22:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebd26d8-9554-4e3e-b835-76968548150e.jpg">]]></description>
-            <link>https://thegrid.ai/french-encas/frenchencas/index.html</link>
-            <guid isPermaLink="false">6ab055f8-3629-449a-b563-4e4e9fbc54ea</guid>
-            <pubDate>Thu, 19 May 2016 22:27:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
