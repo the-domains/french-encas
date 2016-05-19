@@ -1,19 +1,18 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
 inLanguage: null
 keywords: []
 description: "French'Encas"
-datePublished: '2016-05-19T22:32:47.335Z'
-dateModified: '2016-05-19T22:31:26.491Z'
+datePublished: '2016-05-19T22:37:13.216Z'
+dateModified: '2016-05-19T22:37:07.676Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-frenchencas.md
 authors: []
 publisher: null
 starred: false
-url: frenchencas/index.html
 _type: Blurb
 
 ---
