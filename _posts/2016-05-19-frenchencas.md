@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "French'Encas"
-datePublished: '2016-05-19T22:30:17.366Z'
-dateModified: '2016-05-19T22:30:13.842Z'
+datePublished: '2016-05-19T22:31:18.173Z'
+dateModified: '2016-05-19T22:30:26.206Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-frenchencas.md
