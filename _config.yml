@@ -1,0 +1,28 @@
+name: "French'Encas"
+favicon: null
+layout_spectrum: 0.9316423572599888
+typography_spectrum: 0.5625011813826859
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1313067392911762
+  lightness: 0.5276553363073617
+  saturation: 0.5462586176581681
+  rhythmicContrast: 0.021665382431820035
+purpose: []
